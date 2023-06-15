@@ -1,0 +1,1 @@
+If it does not start, then install the JDK and then it will start
