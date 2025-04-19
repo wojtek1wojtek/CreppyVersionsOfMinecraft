@@ -1,0 +1,2 @@
+java -Xmx1024M -Xms1024M -cp lib/lwjgl.jar;lib/lwjgl_util.jar;1.2.3_06.jar;lib/minecraftlib.jar "-Dorg.lwjgl.librarypath=%CD%/natives" "-Dnet.java.games.input.librarypath=%CD%/natives" net.minecraft.client.Minecraft 
+pause
